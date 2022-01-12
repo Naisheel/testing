@@ -1,7 +1,7 @@
 # Naisheel
 
 Description!!
-## subheadergit 
+## subheader
 hello friends hello!
-hey
+hey there
 
